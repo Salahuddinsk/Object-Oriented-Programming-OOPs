@@ -11,5 +11,19 @@ attributes = NO , White , 5L
 methods = accelerate , brake , gear 
 
 Class = Animal
-attributes = Size , color , crawl , walk ,habitat
-methods = 
+attributes = Size , color , scale , consume ,habitat
+methods = crawl , walk , jump , runs , roar 
+
+object = kangaroo
+attributes = tall , brown , No scale , herbivore , jungle
+methods= no , no , jump , no , no
+
+object = lion
+attributes = short , brown , no scale , carnivore , jungle
+methods = no , walks , jump , runs , roar 
+
+_innit_  constructer
+self share karne wala banda habita
+self works like connector
+
+
