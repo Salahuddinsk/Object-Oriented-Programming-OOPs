@@ -1,0 +1,17 @@
+object oriented programming reusebility lata hai 
+time less consume karta hai
+class:
+me dono function and variable aata hai
+classs common cheezo ko rakhti hai
+aim:
+variable and function group karde
+sabko ek saath lekar chalna
+
+object yani entity hai ya to state hai 
+
+feature in terms of object variable hoga
+behaviour in term of object functions hoga
+
+variable jo class me assinged rehte hai unhe attributes(features) kehte hai
+function ko method bhi bolsakte hai
+

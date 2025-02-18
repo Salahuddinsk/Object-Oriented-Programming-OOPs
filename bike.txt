@@ -1,0 +1,15 @@
+Class = Bike
+attributes = is suspension , color , gas tank 
+methods = accelerate , brake , gear 
+
+object = dirt Bike
+attributes = yes , brown , 7 L
+methods = accelerate , brake , gear 
+
+object =sportsbike
+attributes = NO , White , 5L
+methods = accelerate , brake , gear 
+
+Class = Animal
+attributes = Size , color , crawl , walk ,habitat
+methods = 
