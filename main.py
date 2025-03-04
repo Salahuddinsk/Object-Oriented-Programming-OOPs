@@ -47,3 +47,4 @@ human.walk()
 
 #Hw create a class vehicle and take the attributes from the parameter in the constructor and add the relevent methods to it
 # Hw create 3 child classes(or sub class ) of animal class and create object of each child class(or sub class )
+# write what did u understand and what's going on in this code in your own words in hindi

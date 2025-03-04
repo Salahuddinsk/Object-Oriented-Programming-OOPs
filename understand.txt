@@ -7,7 +7,7 @@ Class: A blueprint or design for creating something.
 
 Example: The design for a car (what it looks like and what it can do).
 
-Object: A real thing created from the blueprint.
+Object: A real thing created from the blueprint. ya uske related ho wo object hai
 
 Example: A specific car (like your red Tesla).
 
